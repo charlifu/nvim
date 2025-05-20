@@ -1,4 +1,4 @@
-if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
+-- if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 -- Customize Mason
 
@@ -15,7 +15,7 @@ return {
         "lua-language-server",
 
         -- install formatters
-        "stylua",
+        -- "stylua",
 
         -- install debuggers
         "debugpy",
